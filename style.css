@@ -1,0 +1,71 @@
+#heading {
+  font-family: 'Allerta Stencil', sans-serif;
+  text-align: center;
+  color: white;
+  }
+#bod {
+  background-color: black;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+}
+#quote-box {
+ width: 60vw;
+  height: 50vh;
+  max-height: 350px;
+  max-width: 650px;
+  background-color: white;
+  font-family: 'Allerta Stencil', sans-serif;
+  color: black;
+  display: table;
+  padding: 3% 3% 
+  
+  }
+#text {
+  display: block;
+  font-size: 2.2em;
+  margin-top: 25%
+  text-align: center;
+  }
+
+#author {
+  display: block;
+  margin-left: 75%;
+  margin-top: 6%;
+  margin-bottom: 5%;
+  font-size: 1.7em;
+}
+#button-line {
+  position: relative;
+  bottom: 2px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+#tweet {
+  height: 35px;
+  width: 35px;
+  border-radius: 15px;
+  background-color: #B22222;
+}
+#tweet i {
+  color: white;
+}
+footer i {
+  color: hotpink;
+}
+#new-quote {
+  height: 45px;
+  width: 85px;
+  border-radius: 5px;
+  background-color: #B22222;
+  color: white;
+}
+footer {
+  color: #FAEBD7;
+  font-family: 'Allerta Stencil', sans-serif;
+}
+ #quoter {
+  color: #B22222;
+}
